@@ -10,9 +10,9 @@ Cooperativa Copacol
 Educação no campo (Agrinho)
 
 # Tecnologias utilizadas
-HTML
-CSS
-JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
 
 # Objetivo
 Demonstrar como o cooperativismo fortalece o agronegócio, gera empregos e contribui para um futuro sustentável.
